@@ -1,3 +1,4 @@
+baseURL = "https://anthonydipirro.com/"
 languageCode = "en-us"
 title = "Anthony DiPirro's Blog"
 theme = "base16"
