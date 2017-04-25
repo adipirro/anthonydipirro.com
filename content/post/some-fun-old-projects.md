@@ -20,8 +20,6 @@ During my time at Alt-Strum Productions, I worked on over 100 songs which would 
 
 </br>
 
----
-
 </br>
 
 {{< figure src="/img/some-fun-old-projects/rimg2.png" >}}
@@ -37,8 +35,6 @@ This is a small project I worked on over the summer of 2013 to acclimate myself 
 {{< youtube 3Tf1bEFpPp4 >}}
 
 </br>
-
----
 
 </br>
 
