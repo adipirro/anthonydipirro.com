@@ -5,6 +5,10 @@ title = "Adaptable Energy Rifle Design Process"
 +++
 
 
+{{< youtube 3Tf1bEFpPp4 >}}
+
+</br>
+
 When designing the Adaptable Energy Rifle (A.E.R) there were numerous things I took into consideration.  At the top of that list were time and experience.  Going in I had zero experience using the Unreal Development Kit and only three months to put something together.  The goals I decided to lay out for myself were as follows: 
 
 * Learn UDK
